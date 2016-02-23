@@ -1,2 +1,4 @@
 # hello_world
-burnable repository
+
+Author: Kieran Toomey
+Purpose: Piracy
