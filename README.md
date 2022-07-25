@@ -1,5 +1,5 @@
 # hello_world
 
-Author: Kieran Toomey
+Author: K-TOO
 Purpose: Piracy
 :TBA
